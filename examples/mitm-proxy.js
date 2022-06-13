@@ -1,6 +1,6 @@
 'use strict';
 
-var port = 8081;
+var port = 9090;
 var net = require('net');
 var assert = require('assert');
 var Proxy = require('../');
